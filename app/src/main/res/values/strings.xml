@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="enter_a">Enter a</string>
+    <string name="enter_b">Enter b\n</string>
+    <string name="multiply">*</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="divide">/</string>
+    <string name="result">Result</string>
+</resources>
